@@ -29,7 +29,6 @@ ListNode* CreateList(vector<int> vec) {
 
 // 打印链表
 void PrintList(ListNode* pHead) {
-    cout << "打印链表：" << endl; 
     if (pHead == nullptr) {
         return;
     }
