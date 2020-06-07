@@ -1,3 +1,0 @@
-/Users/ltq/workshop/github/sword-to-offer/ReverseList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/ltq/workshop/github/sword-to-offer/ReverseList/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ltq/workshop/github/sword-to-offer/ReverseList/cmake-build-debug/CMakeFiles/ReverseList.dir
